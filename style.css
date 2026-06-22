@@ -382,8 +382,13 @@ h1 {
 
 .footer {
   background: var(--deep);
-  color: var(--navy);
+  color: #ffffff;
   padding: 28px 24px;
+}
+
+.footer a,
+.footer div {
+  color: #ffffff;
 }
 
 .footer-inner {
